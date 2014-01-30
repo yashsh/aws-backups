@@ -1,0 +1,4 @@
+access_key: AWS_ACCESSKEY
+secret_key: AWS_SECRETKEY
+default_region: us-west-1
+backup_region: us-east-1
